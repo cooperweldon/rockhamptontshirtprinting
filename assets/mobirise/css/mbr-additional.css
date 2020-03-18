@@ -1813,78 +1813,51 @@ body {
   padding-bottom: 75px;
   background-image: url("../../../assets/images/keagan-henman-won79-9ouek-unsplash-2000x1334.jpeg");
 }
-.cid-rQZJaPw3fI {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-rTy9RBzNFm {
+  padding-top: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rQZJaPw3fI h3 {
-  text-align: center;
-}
-.cid-rQZJaPw3fI .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rQZJaPw3fI .mbr-content-text {
+.cid-rTy9RBzNFm .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rQZJaPw3fI .panel-item {
-  background: #ffffff;
-}
-.cid-rQZJaPw3fI .card {
-  word-wrap: break-word;
-}
-.cid-rQZJaPw3fI .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-rTy8j0uejm {
-  padding-top: 90px;
+.cid-rTy9Dcoib4 {
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rTy8j0uejm h3 {
+.cid-rTy9Dcoib4 h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rTy9Dcoib4 p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-rTy9Dcoib4 .card-img {
+  text-align: left;
+  background-color: #000000;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  padding: 3rem 2.5rem 0 2.5rem;
+}
+.cid-rTy9Dcoib4 .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rTy9Dcoib4 .card-box {
+  padding: 0rem 2.5rem 3rem 2.5rem;
+  background-color: #000000;
+}
+.cid-rTy9Dcoib4 .card-title,
+.cid-rTy9Dcoib4 .card-img {
   text-align: center;
+  color: #ffffff;
 }
-.cid-rTy8j0uejm .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rTy8j0uejm .mbr-content-text {
-  color: #767676;
-}
-.cid-rTy8j0uejm .panel-item {
-  background: #ffffff;
-}
-.cid-rTy8j0uejm .card {
-  word-wrap: break-word;
-}
-.cid-rTy8j0uejm .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-rR01tfaq3D {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #000000;
-}
-.cid-rR01tfaq3D .line {
-  background-color: #000000;
-  color: #000000;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rR01tfaq3D .section-text {
-  padding: 2rem 0;
-}
-.cid-rR01tfaq3D .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rR01tfaq3D .inner-container {
-    width: 100% !important;
-  }
+.cid-rTy9Dcoib4 P {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-rR0kX2ROZp {
   padding-top: 45px;
@@ -2089,6 +2062,29 @@ body {
   .cid-rR0kX2ROZp .carousel-inner.slides6 .cloneditem-4,
   .cid-rR0kX2ROZp .carousel-inner.slides6 .cloneditem-5 {
     display: block;
+  }
+}
+.cid-rR01tfaq3D {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #000000;
+}
+.cid-rR01tfaq3D .line {
+  background-color: #000000;
+  color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rR01tfaq3D .section-text {
+  padding: 2rem 0;
+}
+.cid-rR01tfaq3D .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rR01tfaq3D .inner-container {
+    width: 100% !important;
   }
 }
 .cid-rR01H2SzMa {
