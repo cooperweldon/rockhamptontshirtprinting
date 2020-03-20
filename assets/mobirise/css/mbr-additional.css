@@ -136,7 +136,7 @@ body {
   background-color: #149dcc !important;
 }
 .bg-success {
-  background-color: #f7ed4a !important;
+  background-color: #e4d295 !important;
 }
 .bg-info {
   background-color: #000000 !important;
@@ -209,23 +209,23 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
-  color: #3f3c03 !important;
+  background-color: #e4d295 !important;
+  border-color: #e4d295 !important;
+  color: #615119 !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus,
 .btn-success.active {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #615119 !important;
+  background-color: #d4b858 !important;
+  border-color: #d4b858 !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #615119 !important;
+  background-color: #d4b858 !important;
+  border-color: #d4b858 !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -373,22 +373,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #d2c609;
-  color: #d2c609;
+  border-color: #cfaf44;
+  color: #cfaf44;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #3f3c03;
-  background-color: #f7ed4a;
-  border-color: #f7ed4a;
+  color: #615119;
+  background-color: #e4d295;
+  border-color: #e4d295;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #3f3c03 !important;
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
+  color: #615119 !important;
+  background-color: #e4d295 !important;
+  border-color: #e4d295 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -471,7 +471,7 @@ body {
   color: #ff0505 !important;
 }
 .text-success {
-  color: #f7ed4a !important;
+  color: #e4d295 !important;
 }
 .text-info {
   color: #000000 !important;
@@ -498,7 +498,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #d2c609 !important;
+  color: #cfaf44 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -1813,6 +1813,9 @@ body {
   padding-bottom: 75px;
   background-image: url("../../../assets/images/keagan-henman-won79-9ouek-unsplash-2000x1334.jpeg");
 }
+.cid-rQZVCjP8je H1 {
+  color: #e4d295;
+}
 .cid-rTy9RBzNFm {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -1837,7 +1840,7 @@ body {
 }
 .cid-rTy9Dcoib4 .card-img {
   text-align: left;
-  background-color: #cccccc;
+  background-color: #efefef;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
   padding: 3rem 2.5rem 0 2.5rem;
@@ -1848,12 +1851,12 @@ body {
 }
 .cid-rTy9Dcoib4 .card-box {
   padding: 0rem 2.5rem 3rem 2.5rem;
-  background-color: #cccccc;
+  background-color: #efefef;
 }
 .cid-rTy9Dcoib4 .card-title,
 .cid-rTy9Dcoib4 .card-img {
   text-align: center;
-  color: #000000;
+  color: #b1a374;
 }
 .cid-rTy9Dcoib4 P {
   text-align: center;
@@ -2065,8 +2068,8 @@ body {
   }
 }
 .cid-rR01tfaq3D {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-rR01tfaq3D .line {
@@ -2078,6 +2081,7 @@ body {
 }
 .cid-rR01tfaq3D .section-text {
   padding: 2rem 0;
+  color: #e4d295;
 }
 .cid-rR01tfaq3D .inner-container {
   margin: 0 auto;
@@ -2102,8 +2106,9 @@ body {
   height: 54px;
   font-size: 27px;
   border-radius: 50%;
-  border: 2px solid #000000;
+  border: 2px solid #b1a374;
   padding-bottom: 0;
+  color: #000000;
 }
 @media (min-width: 768px) {
   .cid-rR01H2SzMa .separline .step-wrapper {
@@ -2116,7 +2121,7 @@ body {
     content: "";
     height: 2px;
     width: calc(50% + 15px - 27px - 8px);
-    background-color: #000000;
+    background-color: #b1a374;
   }
   .cid-rR01H2SzMa .separline .step-wrapper:before {
     left: -15px;
