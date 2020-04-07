@@ -2159,26 +2159,26 @@ body {
   padding-bottom: 45px;
   background-color: #efefef;
 }
-.cid-rTDtSkNIXr {
+.cid-rVrwgtWiXA {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
-.cid-rTDtSkNIXr .title {
-  margin-bottom: 2rem;
-}
-.cid-rTDtSkNIXr .mbr-section-subtitle {
+.cid-rVrwgtWiXA .mbr-text {
   color: #000000;
+  margin: 0;
+  padding-top: 1.5rem;
+  text-align: center;
 }
-.cid-rTDtSkNIXr a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
+.cid-rVrwgtWiXA div.b {
+  padding-top: 2rem;
 }
-.cid-rTDtSkNIXr a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
+.cid-rVrwgtWiXA H2 {
+  text-align: center;
 }
-.cid-rTDtSkNIXr textarea.form-control {
-  min-height: 188px;
+.cid-rVrwgtWiXA H5 {
+  text-align: center;
+  color: #b1a374;
 }
 .cid-rR0MFivA97 {
   padding-top: 30px;
