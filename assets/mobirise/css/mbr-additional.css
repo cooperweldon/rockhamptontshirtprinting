@@ -2146,7 +2146,13 @@ body {
   }
 }
 .cid-rVrmODkvET {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/8-6-18-cg-group-shirts-fb-1200x630.png");
+}
+.cid-rVrmODkvET H1 {
+  color: #e4d295;
+  text-align: center;
 }
 .cid-rSelCLTxQx {
   padding-top: 45px;
