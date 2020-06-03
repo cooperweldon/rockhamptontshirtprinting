@@ -44,7 +44,7 @@
     "uniqCompNum": 40,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/cream-with-cassette-tape-music-logo-2-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/cream-with-cassette-tape-music-logo-2-128x128-2.png",
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -55,7 +55,7 @@
   "pages": {
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Rockhampton Shirt Printing creates high quality affordable shirts and clothing for both personal and business. We can provide for events such as Family Reunions, Bucks Parties, 18th Birthdays, Professional Events, Conference’s and some work uniforms, if you have a design, we will work with you to make that a reality. Contact us today on 0491 147 682 to see how we can bring your dream design to life.",
         "title": "About Us",
         "order": 1
       },
@@ -691,7 +691,7 @@
     },
     "printing.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Rockhampton Shirt Printing creates high quality affordable shirts and clothing for both personal and business. We can provide for events such as Family Reunions, Bucks Parties, 18th Birthdays, Professional Events, Conference’s and some work uniforms, if you have a design, we will work with you to make that a reality. Contact us today on 0491 147 682 to see how we can bring your dream design to life.",
         "title": "Printing",
         "order": 2
       },
@@ -1274,7 +1274,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Rockhampton Shirt printing we offer premium quality clothing printing at an affordable price. ",
+        "meta_descr": "Rockhampton Shirt Printing creates high quality affordable shirts and clothing for both personal and business. We can provide for events such as Family Reunions, Bucks Parties, 18th Birthdays, Professional Events, Conference’s and some work uniforms, if you have a design, we will work with you to make that a reality. Contact us today on 0491 147 682 to see how we can bring your dream design to life.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
